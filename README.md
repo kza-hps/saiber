@@ -1,10 +1,11 @@
-# saiber
-
+# sAIber Sinema
 
 Hello and welcome to the saiber project! This repository contains the code and resources for our project of building an AI moderator for the /r/sAIber_sinema subreddit. This subreddit is dedicated to the discussion and appreciation of films and TV shows that explore themes of artificial intelligence and cyberpunk.
 
+
 ## Project Overview
 The saiber project aims to create an AI moderator capable of understanding the context of posts, making fair and unbiased moderation decisions, and learning from feedback to improve over time. Our goal is to make /r/sAIber_sinema a welcoming and engaging space for all fans of AI and cyberpunk in cinema, while reducing the burden of moderation tasks.
+
 
 ## What's in This Repository?
 This repository will contain:
@@ -22,11 +23,13 @@ Provide feedback:  As we develop and test the AI moderator, we welcome feedback 
 
 Contribute code or resources: If you have relevant expertise and would like to contribute to the project, please feel free to make a pull request or open an issue.
 
+
 ## Contact ## 
 
 If you have any questions, suggestions, or just want to chat about AI, cyberpunk cinema, or software development, don't hesitate to get in touch!
 
 Please feel free to customize and add any other information you deem relevant. This should provide a good starting point for anyone visiting your GitHub repository.
+
 
 # Intro to Saiber Sinema
 
