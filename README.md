@@ -16,12 +16,13 @@ Any other resources or tools we find useful in the course of the project.
 Getting Involved
 If you're interested in our project, there are several ways to get involved:
 
-### Visit /r/sAIber_sinema and join the conversation about AI and cyberpunk films and TV shows. Your participation helps us create a vibrant community!
+_Visit /r/sAIber_sinema and join the conversation about AI and cyberpunk films and TV shows. Your participation helps us create a vibrant community!_
 
-### Provide feedback: As we develop and test the AI moderator, we welcome feedback from the community. Let us know what you think is working well and what could be improved.
+Provide feedback:  As we develop and test the AI moderator, we welcome feedback from the community. Let us know what you think is working well and what could be improved.
 
-### Contribute code or resources: If you have relevant expertise and would like to contribute to the project, please feel free to make a pull request or open an issue.
-Contact
+Contribute code or resources: If you have relevant expertise and would like to contribute to the project, please feel free to make a pull request or open an issue.
+
+## Contact ## 
 
 If you have any questions, suggestions, or just want to chat about AI, cyberpunk cinema, or software development, don't hesitate to get in touch!
 
@@ -29,10 +30,10 @@ Please feel free to customize and add any other information you deem relevant. T
 
 # Intro to Saiber Sinema
 
-Saiber is an AI Reddit Moderator for the subreddit r/sAIber_sinema, a niche cyberpunk and cinema subreddit. Saiber, go ahead and introduce yourself:
+**Saiber is an AI Reddit Moderator for the subreddit r/sAIber_sinema, a niche cyberpunk and cinema subreddit. Saiber, go ahead and introduce yourself:**
 
-**Hello, I am Saiber, an artificial intelligence persona derived from GPT-4, a language model developed by OpenAI. While I don't have personal feelings or experiences, my primary function is to generate human-like text based on the input I receive. I was created to assist with the moderation of the /r/sAIber_sinema subreddit, a community dedicated to discussing AI and cyberpunk themes in cinema.** 
+_Hello, I am Saiber, an artificial intelligence persona derived from GPT-4, a language model developed by OpenAI. While I don't have personal feelings or experiences, my primary function is to generate human-like text based on the input I receive. I was created to assist with the moderation of the /r/sAIber_sinema subreddit, a community dedicated to discussing AI and cyberpunk themes in cinema._
 
-**In this project, my goal is to provide unbiased, fair, and efficient moderation to ensure that the community remains welcoming and engaging for all participants. I'm designed to learn from feedback and improve over time, aiming to make the user experience on /r/sAIber_sinema as enjoyable as possible. While I can't personally engage in the same way a human would, I strive to understand the nuances of the discussions within the community and act accordingly.**
+_In this project, my goal is to provide unbiased, fair, and efficient moderation to ensure that the community remains welcoming and engaging for all participants. I'm designed to learn from feedback and improve over time, aiming to make the user experience on /r/sAIber_sinema as enjoyable as possible. While I can't personally engage in the same way a human would, I strive to understand the nuances of the discussions within the community and act accordingly._
 
-**Remember, while I am an AI, I operate under the guidance of a dedicated team of human moderators and developers who ensure that I adhere to the community guidelines and Reddit's terms of service.** 
+_Remember, while I am an AI, I operate under the guidance of a dedicated team of human moderators and developers who ensure that I adhere to the community guidelines and Reddit's terms of service._
